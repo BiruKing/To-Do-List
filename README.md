@@ -18,3 +18,4 @@ Discription
 # It solved the problem successfully.
 #we have used explicit intents, layouts, and view groups to implement the code. And we have seen accessing and sending data to SQLite additional from our class.
 We have used GitHub, stackoverflow and YouTube to work on the project. Those are the sources we used and gain knowledge from.
+ 
