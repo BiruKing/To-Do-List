@@ -1,7 +1,5 @@
 # To-Do-List
-Android Finall Project
-Discription
-#TITLE >>Todo List
+Android Finall Project Discription of about the project!
 ---
 |Name|         Id|       Resposiblity|
 |---|---|---|
