@@ -1,12 +1,17 @@
 # To-Do-List
 Android Finall Project
 Discription
-##TITLR# Todo List#
- #mengesha debash_______________1260________________Project manager and implementer
-#Biruk Kindu________________1154________________Project manager and implementer
-#Lielitework Birhanu ----------1241----------------implementer 
-#Loza Teshome-----------------1242----------------UI Designer
-#Kirose Abera-------------------1235----------REquirment engineering and UI Designer
+#TITLE
+---
+#Todo List
+---
+|Name|         Id|       Resposiblity|
+|---|---|---|
+|mengesha debash|1260|Project manager and implementer|
+|Biruk Kindu|1154|Project manager and implementer|
+|Lielitework Birhanu|1241|implementer|
+|Loza Teshome|1242|UI Designer|
+|Kirose Abera|1235|REquirment engineering and UI Designer|
 
 #the main problem is unable to manage daily activity or to solve time wasting problem by doing things with out plainng our work so,for removing this type of problem this app is essential. And the main target of our project is to solve this problem using android app that supports 92% of android smart phones. Also it has the following features
 #adds daily task
