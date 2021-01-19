@@ -24,3 +24,5 @@ as I mentioned earlier the app is developed based on the problem identified and 
 ---
 >> User Interface of the application look likes as follows
 ---
+<img src="https://user-images.githubusercontent.com/71508420/105008107-a973ec80-59ed-11eb-86c1-23b7f4fc1885.jpg"
+     style="float: left; margin-right: 10px;" />
