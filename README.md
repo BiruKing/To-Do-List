@@ -26,3 +26,29 @@ as I mentioned earlier the app is developed based on the problem identified and 
 ---
 <img src="https://user-images.githubusercontent.com/71508420/105008107-a973ec80-59ed-11eb-86c1-23b7f4fc1885.jpg"
      style="float: left; margin-right: 10px;" />
+ <br>
+ <img src="https://user-images.githubusercontent.com/71508420/105008108-aa0c8300-59ed-11eb-8237-c150165574f3.jpg"
+     style="float: left; margin-right: 10px;" />
+ <br>
+<img src="https://user-images.githubusercontent.com/71508420/105008109-aa0c8300-59ed-11eb-8373-27aacba4cc80.jpg"
+     style="float: left; margin-right: 10px;" />
+ <br>
+<img src="https://user-images.githubusercontent.com/71508420/105008111-aaa51980-59ed-11eb-9b1a-f73e5fdcd973.jpg"
+     style="float: left; margin-right: 10px;" />
+ <br>
+<img src="https://user-images.githubusercontent.com/71508420/105008113-aaa51980-59ed-11eb-8e1c-dafc297e3c82.jpg"
+     style="float: left; margin-right: 10px;" />
+ <br>
+<img src="https://user-images.githubusercontent.com/71508420/105008116-ab3db000-59ed-11eb-91e5-f8c145c4989d.jpg"
+     style="float: left; margin-right: 10px;" />
+ <br>
+<img src="https://user-images.githubusercontent.com/71508420/105008119-abd64680-59ed-11eb-9e9d-8126b1705ff6.jpg"
+     style="float: left; margin-right: 10px;" />
+ <br>
+<img src="https://user-images.githubusercontent.com/71508420/105008101-a7aa2900-59ed-11eb-9aed-b2e2f62a6fb3.jpg"
+     style="float: left; margin-right: 10px;" />
+ <br>
+<img src="https://user-images.githubusercontent.com/71508420/105008113-aaa51980-59ed-11eb-8e1c-dafc297e3c82.jpg"
+     style="float: left; margin-right: 10px;" />
+ <br>
+
