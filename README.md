@@ -20,8 +20,8 @@ as I mentioned earlier the app is developed based on the problem identified and 
 # It solved the problem successfully.
 ---
  ## We have used explicit intents, layouts, and view groups to implement the code. And we have seen accessing and sending data to SQLite additional from our class.
-We have used GitHub, stackoverflow and YouTube to work on the project. Those are the sources we used and gain knowledge from.
-the another purpose of this to do list application is that,everyone(student,teacher,doctor......)who want to manage his/her time can use it.
+## We have used GitHub, stackoverflow and YouTube to work on the project. Those are the sources we used and gain knowledge from.
+##the another purpose of this to do list application is that,everyone(student,teacher,doctor......)who want to manage his/her time can use it.
 ---
 >>User Interface of the application look likes as follows
 ---
